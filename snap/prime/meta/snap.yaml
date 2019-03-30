@@ -1,0 +1,10 @@
+name: fbostudios
+version: '0.1'
+summary: Single-line elevator pitch for your amazing snap
+description: 'This is fbostudios snap''s description. good in the snap store.
+
+'
+architectures:
+- amd64
+confinement: devmode
+grade: devel
