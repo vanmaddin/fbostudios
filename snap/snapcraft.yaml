@@ -8,8 +8,8 @@
   grade: stable # must be 'stable' to release into candidate/stable channels devel
   confinement: strict # use 'strict' once you have the right plugs and slots devmode
 
-  #parts:
-  #  my-part:
+  parts:
+    my-part:
       # See 'snapcraft plugins'
-  #   plugin: nil
+     plugin: nil
   

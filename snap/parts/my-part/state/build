@@ -2343,6 +2343,7 @@ assets:
   installed-snaps:
   - tmnationsforever=28
   - core=6673
+  - lxd=10343
   - multipass=587
   - snapcraft=2650
   uname: 'Linux 4.9.0-8-amd64 #1 SMP Debian 4.9.144-3.1 (2019-02-19) x86_64 unknown

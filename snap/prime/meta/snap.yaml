@@ -1,10 +1,10 @@
 name: fbostudios
-version: '0.1'
+version: '0.2'
 summary: fbostudios by fpsserver
 description: 'This is fbostudios snap''s description. good in the snap store.
 
 '
 architectures:
 - amd64
-confinement: devmode
+confinement: strict
 grade: stable
